@@ -1,0 +1,5 @@
+FOLDING BIKE Brompton; 20; 6; 9283; TRUE; black; 1199 
+E-SCOOTER Peugeot; 45; 5426; TRUE; blue; 8000; 875 
+E-BIKE Gazelle; 49; 16455; TRUE; red; 16000; 1499 
+FOLDING BIKE Dahon; 16; 1; 11109; FALSE; white; 899 
+E-BIKE Koga; 48; 15488; TRUE; red; 21000; 1899
